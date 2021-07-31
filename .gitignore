@@ -3,3 +3,5 @@ build
 .pynb_checkpoints
 **/.pynb_checkpoints.**
 **/.pynb_checkpoints/**
+build/.ipynb_checkpoints/index-checkpoint.js src/.ipynb_checkpoints/index-checkpoint.ts
+.ipynb_checkpoints
